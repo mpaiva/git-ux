@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "876185AC-C068-4EBC-B5E3-65AF9E9789D3",
+  "_class": "group",
+  "do_objectID": "D03B1747-824F-453C-AF11-84D4C3DE7D1D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 54,
+    "width": 302,
+    "x": 235,
+    "y": 268
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,19 +26,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "061D10DC-968B-48FA-BE10-B07DB031F8CF"
+      "class": "text",
+      "id": "744F5A22-8364-4C0F-9BCD-EAD526656C41"
     },
     {
-      "class": "artboard",
-      "id": "1DD2A3B5-7E69-48E1-9002-C1B21487DFE3"
+      "class": "text",
+      "id": "504A5A90-22F9-4CF0-AA1D-3D3B6E0F82C3"
     },
     {
-      "class": "artboard",
-      "id": "D3AAEAD9-4B07-494E-991D-B14A1C883047"
+      "class": "text",
+      "id": "1CB76774-89BE-4C7B-ACB9-4B56E45A3A69"
     }
   ],
-  "name": "Page 1",
+  "name": "Group 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -57,10 +50,10 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

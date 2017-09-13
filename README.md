@@ -5,3 +5,8 @@ Teaching Git workflow to designers using Sketch, Github, Slack and Kactus.
 Working within a team requires discipline and organization. This workflow brings designers and developers one step closer, by keeping the design files (__*.sketch__) properly versioned and backed up with Github.
 
 ![no more messy file collaboration.](https://i.imgur.com/y6Y7vRf.png)
+
+## The Proper Team Workflow
+Git provides numerous benefits for the well-organized ones, but it really shines when it comes to team collaboration. Vincent Driessen wrote [one of the best articles](http://nvie.com/posts/a-successful-git-branching-model/) out there on git workflow and branching strategies, but here's how you and your design team need to know to get started:  
+
+![git workflow for designers.](https://i.imgur.com/sHIxp0k.png)

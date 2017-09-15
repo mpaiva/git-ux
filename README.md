@@ -12,7 +12,7 @@ Git provides numerous benefits for the well-organized ones, but it really shines
 ### Working with Sketch
 If you or your team already use [Sketch App](http://sketchapp.com) to design your digital product screens, you are half way through becoming the fastest team on earth. The typical Sketch file for a well-designed product is probably structured like this:  
 
-![Sketch file structure](https://i.imgur.com/kwSDoXp.png)
+![Sketch file structure](https://i.imgur.com/rJ5qTJH.png)
 
 
 

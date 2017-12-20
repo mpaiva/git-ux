@@ -35,6 +35,7 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "B470F41A-F765-4768-9BD1-0A923D3B52CD",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
@@ -44,6 +45,12 @@
     "_class": "symbolContainer",
     "objects": [
     ]
+  },
+  "meta": {
+    "appVersion": "48.2",
+    "build": 47327,
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
+    "version": 97
   },
   "pages": [
     "Page 1"
